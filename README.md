@@ -118,7 +118,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screens:
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 29-portrait](https://github.com/user-attachments/assets/58600a6e-8055-4fd4-8f2c-996692d360d0 =250x250)
+![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 29-portrait](https://github.com/user-attachments/assets/58600a6e-8055-4fd4-8f2c-996692d360d0){width=800}
 ![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 32-portrait](https://github.com/user-attachments/assets/3427c446-45d9-4e01-b8a0-fca3e8d8a980)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 36-portrait](https://github.com/user-attachments/assets/2677efc5-c87f-469d-a172-e6373875997b)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-11-19 at 12 07 28-portrait](https://github.com/user-attachments/assets/a98e0d77-c87b-49c0-b9a9-970aefa25fcd)
