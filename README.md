@@ -118,10 +118,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screens:
 <img src="https://github.com/user-attachments/assets/58600a6e-8055-4fd4-8f2c-996692d360d0" width="400">
-![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 29-portrait](https://github.com/user-attachments/assets/58600a6e-8055-4fd4-8f2c-996692d360d0)
-![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 32-portrait](https://github.com/user-attachments/assets/3427c446-45d9-4e01-b8a0-fca3e8d8a980)
-![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 36-portrait](https://github.com/user-attachments/assets/2677efc5-c87f-469d-a172-e6373875997b)
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-19 at 12 07 28-portrait](https://github.com/user-attachments/assets/a98e0d77-c87b-49c0-b9a9-970aefa25fcd)
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-19 at 12 08 21-portrait](https://github.com/user-attachments/assets/a231bdd5-4b73-49b5-9bac-1c9191270e2d)
-![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 54-portrait](https://github.com/user-attachments/assets/635c9e31-9f43-454c-ad6a-72952aaa7ffa)
-![Simulator Screenshot - iPhone 15 Pro - 2024-12-04 at 14 59 59-portrait](https://github.com/user-attachments/assets/0d5873d0-76a3-4952-96af-a4e70d024a79)
+<img src="https://github.com/user-attachments/assets/3427c446-45d9-4e01-b8a0-fca3e8d8a980" width="400">
+<img src="https://github.com/user-attachments/assets/2677efc5-c87f-469d-a172-e6373875997b" width="400">
+<img src="https://github.com/user-attachments/assets/a98e0d77-c87b-49c0-b9a9-970aefa25fcd" width="400">
+<img src="https://github.com/user-attachments/assets/a231bdd5-4b73-49b5-9bac-1c9191270e2d" width="400">
+<img src="https://github.com/user-attachments/assets/635c9e31-9f43-454c-ad6a-72952aaa7ffa" width="400">
+<img src="https://github.com/user-attachments/assets/0d5873d0-76a3-4952-96af-a4e70d024a79" width="400">
+
